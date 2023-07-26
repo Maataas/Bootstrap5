@@ -1,0 +1,40 @@
+.spacer {
+    margin-top: 100px;
+}
+
+div {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+    color: white;
+}
+.grey {
+    background-color: grey;
+}
+
+.violet {
+    background-color: blueviolet;
+    height: 400px;
+    line-height: 12;
+}
+
+.green {
+    background-color: green;
+    width: 620px;
+    height: 192px;
+    line-height: 6;
+}
+
+.pink {
+    background-color: pink;
+    height: 192px;
+    line-height: 6;
+    width: 305px;
+}
+
+.mel {
+    background-color: blue;
+    height: 88px;
+    width: 305px;
+    line-height: 3;
+}
